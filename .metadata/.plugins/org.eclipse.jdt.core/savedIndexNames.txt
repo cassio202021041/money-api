@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\cassi\Documents\RepositorioJava\money-api\.metadata\.plugins\org.eclipse.jdt.core
+2469103429.index
+3621692672.index

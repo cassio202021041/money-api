@@ -19,3 +19,12 @@ java.io.FileNotFoundException: C:\Users\cassi\Documents\RepositorioJava\money-ap
 	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2421)
 	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:554)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+2024-12-19 22:45:28,408 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-19 22:49:35,672 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.money-api:money-api:0.0.1-SNAPSHOT @ C:\Users\cassi\Documents\GitHub\money-api\pom.xml.
+2024-12-19 22:49:38,045 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /money-api/src/main/java
+2024-12-19 22:49:38,047 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /money-api/src/main/resources
+2024-12-19 22:49:38,049 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /money-api/src/main/resources
+2024-12-19 22:49:38,051 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /money-api/src/test/java
+2024-12-19 22:49:38,675 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-12-19 22:49:39,994 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-19 22:49:40,017 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cassi\Documents\GitHub\money-api\src\test\resources
