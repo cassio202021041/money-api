@@ -28,3 +28,4 @@ java.io.FileNotFoundException: C:\Users\cassi\Documents\RepositorioJava\money-ap
 2024-12-19 22:49:38,675 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
 2024-12-19 22:49:39,994 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-19 22:49:40,017 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\cassi\Documents\GitHub\money-api\src\test\resources
+2024-12-19 23:42:20,507 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
